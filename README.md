@@ -67,7 +67,7 @@ first_order_for_each_user = []
 ```
 ### Answer
 ```rb
-[ {description: "a a book about bees"}, {description: "Kingdom hearts"}, {description: "a Razer Blade"} ]
+[ {description: "a book about bees"}, {description: "Kingdom hearts"}, {description: "a Razer Blade"} ]
 ```
 ## 3. Find the average amount spent on coffee, per transaction, for each person
 ```rb
