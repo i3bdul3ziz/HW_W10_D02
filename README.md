@@ -55,7 +55,7 @@ users = [
               description: "Gigabyte arous mechanical keyboard"
           },
           {
-              description: "xbox x"
+              description: "sleeping bean bag"
           },
           {
               description: "a firendly giant lizard"
