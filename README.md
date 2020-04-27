@@ -30,7 +30,7 @@ users = [
       name: "Hamzah",
       orders: [
           {
-              description: "a bmx"
+              description: "a book about bees"
           }
       ]
   },
@@ -52,10 +52,10 @@ users = [
               description: "a Razer Blade"
           },
           {
-              description: "The Arrow DVDs"
+              description: "Gigabyte arous mechanical keyboard"
           },
           {
-              description: "airpods"
+              description: "xbox x"
           },
           {
               description: "a firendly giant lizard"
@@ -67,7 +67,7 @@ first_order_for_each_user = []
 ```
 ### Answer
 ```rb
-[ {description: "a bmx"}, {description: "Kingdom hearts"}, {description: "a Razer Blade"} ]
+[ {description: "a a book about bees"}, {description: "Kingdom hearts"}, {description: "a Razer Blade"} ]
 ```
 ## 3. Find the average amount spent on coffee, per transaction, for each person
 ```rb
